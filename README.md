@@ -1,5 +1,5 @@
 # MileCut: A Multi-view Truncation Framework for Legal Case Retrieval
-The official Github repository for paper [MileCut]() (WWW'24).
+The official Github repository for paper [MileCut](https://doi.org/10.1145/3589334.3645349) (WWW'24).
 
 ## Overview
 [MileCut](#milecut)
